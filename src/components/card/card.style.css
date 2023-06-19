@@ -1,9 +1,12 @@
 .card-container {
     display: flex;
     flex-direction: column;
-    background-color: #95dada;
-    border: 1px solid gray;
+    background: linear-gradient(to left,
+            #661C73 0%,
+            #512358 100%);
     border-radius: 5px;
+    color: #ffd6fb;
+    padding: 25px;
     cursor: pointer;
     -moz-osx-font-smoothing: grayscale;
     backface-visibility: hidden;
