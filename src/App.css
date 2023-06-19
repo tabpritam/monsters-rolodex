@@ -9,8 +9,8 @@
    -webkit-font-smoothing: antialiased;
    -moz-osx-font-smoothing: grayscale;
    background: linear-gradient(to left,
-       rgba(7, 27, 82, 1) 0%,
-       rgba(0, 128, 128, 1) 100%);
+       #050006 0%,
+       #300846 100%);
    text-align: center;
  }
 
@@ -18,6 +18,6 @@
    margin-top: 75px;
    margin-bottom: 50px;
    font-size: 86px;
-   color: #0ccac4;
+   color: #BC51B1;
    font-family: 'Bigelow Rules', cursive;
  }
